@@ -190,4 +190,12 @@ a {
   #message {
     left: 5px;
   }
+  .container .sign-container form svg.fa-envelope {
+  top: 11px;
+  
+}
+.container .sign-container form svg.fa-lock {
+  top: 67px;
+ 
+}
 }
